@@ -117,9 +117,7 @@ QRadioButton::indicator:checked {
     border: 2px solid #2980b9;
     border-radius: 9px;
     background-color: #3498db;
-}</string>
-  </property>
-  <widget class="QLabel" name="titleLabel">
+}
    <property name="geometry">
     <rect>
      <x>20</x>
