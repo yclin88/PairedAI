@@ -1,0 +1,2 @@
+# PairedAI
+Miterm exam 
